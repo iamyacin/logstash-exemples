@@ -1,2 +1,2 @@
 # logstash-exemples
-This Repository contains examples of logstash usecases
+This Repository contains examples of logstash usecases.
